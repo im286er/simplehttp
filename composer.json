@@ -1,13 +1,19 @@
 {
-    "name": "justmd5/simplehttp",
-    "authors": [
-        {
-            "name": "justmd5",
-            "email": "ding21st@gmail.com"
-        }
-    ],
+  "name": "justmd5/simplehttp",
+  "keywords": [
+    "simple",
+    "http",
+    "curl",
+    "tools"
+  ],
+  "authors": [
+    {
+      "name": "justmd5",
+      "email": "ding21st@gmail.com"
+    }
+  ],
   "license": "MIT",
-  "minimum-stability":"dev",
+  "minimum-stability": "dev",
   "require": {
     "php": ">=5.5.0"
   },
